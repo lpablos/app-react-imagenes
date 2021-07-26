@@ -41,10 +41,10 @@ const App = () => {
   }
   return (
     <div className="container">
-      <div className="jumbotron">
-        <p className="lead text-center">
-          PIxaBay
-        </p>
+      <div className="jumbotron">        
+          <p className="lead text-center">
+            PixaBay Imagenes Free Para Proyectos
+          </p>        
         <Formulario
           setBusqueda = { setBusqueda }
         />
